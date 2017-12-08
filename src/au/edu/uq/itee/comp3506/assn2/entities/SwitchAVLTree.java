@@ -5,7 +5,7 @@ package au.edu.uq.itee.comp3506.assn2.entities;
  * 
  * Memory efficiency: O(n)
  * 
- * @author Weiye Zhao 44612975
+ * @author Wayne
  */
 public class SwitchAVLTree<T extends Comparable<T>> {
 

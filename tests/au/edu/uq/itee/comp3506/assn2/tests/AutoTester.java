@@ -19,7 +19,7 @@ import au.edu.uq.itee.comp3506.assn2.entities.ValueList;
  * 
  * Memory efficiency: O(n^2)
  * 
- * @author Weiye Zhao 44612975
+ * @author Wayne
  */
 public final class AutoTester implements TestAPI {
 	// TODO Provide any data members required for the methods below to work correctly with your application.

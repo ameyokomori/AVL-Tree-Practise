@@ -9,7 +9,7 @@ import java.util.List;
  * 
  * Memory efficiency: O(n)
  * 
- * @author Weiye Zhao 44612975
+ * @author Wayne
  */
 public class RecordAVLTree<T extends Comparable<T>> {
 	private AVLTreeNode<T> root;

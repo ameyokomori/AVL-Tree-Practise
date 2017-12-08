@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
  * 
  * Memory efficiency: O(n)
  * 
- * @author Weiye Zhao 44612975
+ * @author Wayne
  */
 public class TimeAVLTree {
 	private AVLTreeNode root;

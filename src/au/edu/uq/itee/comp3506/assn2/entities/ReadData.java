@@ -12,7 +12,7 @@ import java.util.List;
  * 
  * Memory efficiency: O(n^2)
  * 
- * @author Weiye Zhao 44612975
+ * @author Wayne
  *
  */
 public class ReadData {

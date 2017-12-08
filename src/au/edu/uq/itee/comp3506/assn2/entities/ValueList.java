@@ -8,7 +8,7 @@ import java.util.NoSuchElementException;
  * 
  * Memory efficiency: O(n)
  * 
- * @author Weiye Zhao 44612975
+ * @author Wayne
  */
 public class ValueList<T> implements Iterable<T> {
 	
